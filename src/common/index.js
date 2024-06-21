@@ -1,4 +1,4 @@
-const backendDomin = "https://ecommerce-backend-d4zx.onrender.com:8080"
+const backendDomin = "https://ecommerce-backend-d4zx.onrender.com"
 
 const SummaryApi = {
     signUP : {
